@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animated-sand-timers-app/static/css/main.a2eaf2fa.css",
+    "main.js": "/animated-sand-timers-app/static/js/main.c199afbe.js",
+    "static/js/787.fa722460.chunk.js": "/animated-sand-timers-app/static/js/787.fa722460.chunk.js",
+    "index.html": "/animated-sand-timers-app/index.html",
+    "main.a2eaf2fa.css.map": "/animated-sand-timers-app/static/css/main.a2eaf2fa.css.map",
+    "main.c199afbe.js.map": "/animated-sand-timers-app/static/js/main.c199afbe.js.map",
+    "787.fa722460.chunk.js.map": "/animated-sand-timers-app/static/js/787.fa722460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2eaf2fa.css",
+    "static/js/main.c199afbe.js"
+  ]
+}
