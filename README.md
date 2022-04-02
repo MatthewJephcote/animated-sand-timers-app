@@ -1,3 +1,30 @@
+# Animated Sand Timer App #
+
+## Instructions ##
+
+Simply load page and watch the four sand timers mark out 45 seconds.
+
+## Technologies Employed ##
+
+React, Tailwind and Pure CSS.
+
+My design of the timer's graphics was achieved using CSS solely (with no image files whatsoever used in the project).
+
+The app showcases my understanding of CSS Animations combining three types of these: rotation (as the timers flip over); filling-emptying (as the'sands of time' pass from the upper to lower chambers of the timers); and shake effect (which the timers use to indicate only 10 seconds remaining).
+
+React 'reusability' allowed me to display multiple sand timers (each a variation on my SandTimer component) on the same page quickly and efficiently.
+
+## How I Would Like To Take the Project Further ##
+
+I would like to introduce a 'staggered start' feature to the timers. I believe that I could achieve this using JavaScript Timeout function combined with conditional operators.                                                                                                                                                                                                                                            
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
