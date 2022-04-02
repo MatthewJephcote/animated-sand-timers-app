@@ -1,4 +1,4 @@
-# Animated Sand Timer App #
+# Animated Sand Timers App #
 
 ## Instructions ##
 
