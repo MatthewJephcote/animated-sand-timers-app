@@ -1,22 +1,32 @@
 # Animated Sand Timers App #
 
+![Screenshot (41)](https://user-images.githubusercontent.com/96934081/161368839-a7431778-f00e-4715-8162-1eb9ee765f0d.png)
+
 ## Instructions ##
 
 Simply load page and watch the four sand timers mark out 45 seconds.
 
 ## Technologies Employed ##
-
-React, Tailwind and Pure CSS.
+![Screenshot (43)](https://user-images.githubusercontent.com/96934081/161368507-f984191f-2ea1-499c-8988-6eb1b75b3c7f.png)
+I built this app using React, Tailwind and Pure CSS.
 
 My design of the timer's graphics was achieved using CSS solely (with no image files whatsoever used in the project).
 
-The app showcases my understanding of CSS Animations combining three types of these: rotation (as the timers flip over); filling-emptying (as the'sands of time' pass from the upper to lower chambers of the timers); and shake effect (which the timers use to indicate only 10 seconds remaining).
+The app showcases my understanding of CSS Animations combining three types of these: rotation (as the timers flip over); filling-emptying (as the'sands of time' pass from the upper to lower chambers of the timers); and shake effect (which the timers use to indicate only 10 seconds remaining - see screenshot below, capturing them in an offset action frame).
+
+![Screenshot (39)](https://user-images.githubusercontent.com/96934081/161368785-128729db-734c-484c-8ee7-d10cbb5887a3.png)
 
 React 'reusability' allowed me to display multiple sand timers (each a variation on my SandTimer component) on the same page quickly and efficiently.
 
+I have designed the app to be fully-responsive to all screen sizes.
+
+![Screenshot (42)](https://user-images.githubusercontent.com/96934081/161368577-73f9c719-23a4-4194-a98c-8613e0eb80e5.png)
+
 ## How I Would Like To Take the Project Further ##
 
-I would like to introduce a 'staggered start' feature to the timers. I believe that I could achieve this using JavaScript Timeout function combined with conditional operators.                                                                                                                                                                                                                                            
+I would like to introduce a 'staggered start' feature to the timers. I believe that I could achieve this using JavaScript Timeout function combined with conditional operators.
+
+![Screenshot (40)](https://user-images.githubusercontent.com/96934081/161368453-f33b3402-e254-46e8-9640-52e06623cf51.png)
 
 
 
